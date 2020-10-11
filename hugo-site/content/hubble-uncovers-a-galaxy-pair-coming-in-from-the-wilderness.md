@@ -1,0 +1,8 @@
+---
+title: Hubble Uncovers a Galaxy Pair Coming in from the Wilderness
+date: 2017-12-08T00:00:00Z
+draft: false
+categories: ["Hubble Space Telescope"]
+pic: "hubble-uncovers-a-galaxy-pair-coming-in-from-the-wilderness.jpg"
+---
+NASA’s Hubble Space Telescope uncovered two tiny dwarf galaxies that have wandered from a vast cosmic wilderness into a nearby “big city” packed with galaxies. After being idle for billions of years, they are ready to party by starting a firestorm of star birth.  Hubble captured the glow of new stars in these small, ancient galaxies, called Pisces A and Pisces B. Observations suggests the galaxies are late bloomers because they have spent most of their existence in the Local Void, a region of the universe sparsely populated with galaxies. The Local Void is roughly 150 million light-years across.  Credits: NASA, ESA, and E. Tollerud (STScI)  <b><a href="http://www.nasa.gov/audience/formedia/features/MP_Photo_Guidelines.html" rel="nofollow">NASA image use policy.</a></b>  <b><a href="http://www.nasa.gov/centers/goddard/home/index.html" rel="nofollow">NASA Goddard Space Flight Center</a></b> enables NASA’s mission through four scientific endeavors: Earth Science, Heliophysics, Solar System Exploration, and Astrophysics. Goddard plays a leading role in NASA’s accomplishments by contributing compelling scientific knowledge to advance the Agency’s mission.  <b>Follow us on <a href="http://twitter.com/NASAGoddardPix" rel="nofollow">Twitter</a></b>  <b>Like us on <a href="http://www.facebook.com/pages/Greenbelt-MD/NASA-Goddard/395013845897?ref=tsd" rel="nofollow">Facebook</a></b>  <b>Find us on <a href="http://instagrid.me/nasagoddard/?vm=grid" rel="nofollow">Instagram</a></b>      

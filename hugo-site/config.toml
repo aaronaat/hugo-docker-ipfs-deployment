@@ -1,0 +1,6 @@
+baseURL = "/"
+relativeurls = true
+languageCode = "en-us"
+title = "Space Telescope Pictures"
+theme = "hugo-theme"
+

@@ -1,0 +1,8 @@
+---
+title: Dissection of a Galaxy
+date: 2004-05-11T20:39:12Z
+draft: false
+categories: ["Spitzer Space Telescope"]
+pic: "dissection-of-a-galaxy.jpg"
+---
+Sometimes, the best way to understand how something works is to take it apart. The same is true for galaxies like NGC 300, which NASA's Spitzer Space Telescope has divided into its various parts. NGC 300 is a face-on spiral galaxy located 7.5 million light-years away in the southern constellation Sculptor.      This false-color image taken by the infrared array camera on Spitzer readily distinguishes the main star component of the galaxy (blue) from its dusty spiral arms (red). The star distribution peaks strongly in the central bulge where older stars congregate, and tapers off along the arms where younger stars reside.      Thanks to Spitzer's unique ability to sense the heat or infrared emission from dust, astronomers can now clearly trace the embedded dust structures within NGC 300's arms. When viewed at visible wavelengths, the galaxy's dust appears as dark lanes, largely overwhelmed by bright starlight. With Spitzer, the dust - in particular organic compounds called polycyclic aromatic hydrocarbons - can be seen in vivid detail (red). These organic molecules are produced, along with heavy elements, by the stellar nurseries that pepper the arms.      The findings provide a better understanding of spiral galaxy mechanics and, in the future, will help decipher more distant galaxies, whose individual components cannot be resolved.      This image was taken on Nov. 21, 2003 and is composed of photographs obtained at four wavelengths: 3.6 microns (blue), 4.5 microns (green), 5.8 microns (orange) and 8 microns (red).  http://photojournal.jpl.nasa.gov/catalog/PIA05879

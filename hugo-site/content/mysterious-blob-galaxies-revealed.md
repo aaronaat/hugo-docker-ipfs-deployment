@@ -1,0 +1,8 @@
+---
+title: Mysterious Blob Galaxies Revealed
+date: 2005-01-11T17:11:23Z
+draft: false
+categories: ["Spitzer Space Telescope"]
+pic: "mysterious-blob-galaxies-revealed.jpg"
+---
+This image composite shows a giant galactic blob (red) and the three merging galaxies NASA's Spitzer Space Telescope discovered within it (yellow).  Blobs are intensely glowing clouds of hot hydrogen gas that envelop faraway galaxies. They are about 10 times as large as the galaxies they surround. Visible-light images reveal the vast extent of blobs, but don't provide much information about their host galaxies.  Using its heat-seeking infrared eyes, Spitzer was able to see the dusty galaxies tucked inside one well-known blob located 11 billion light-years away. The findings reveal three monstrously bright galaxies, trillions of times brighter than the Sun, in the process of merging together.  Spitzer also observed three other blobs located in the same cosmic neighborhood, all of which were found to be glaringly bright. One of these blobs is also known to be a galactic merger, only between two galaxies instead of three. It remains to be seen whether the final two blobs studied also contain mergers.  The Spitzer data were acquired by its multiband imaging photometer. The visible-light image was taken by the Blanco Telescope at the Cerro Tololo Inter-American Observatory, Chile.  http://photojournal.jpl.nasa.gov/catalog/PIA07220

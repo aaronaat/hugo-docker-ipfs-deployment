@@ -1,0 +1,8 @@
+---
+title: Space Science
+date: 2004-01-01T00:00:00Z
+draft: false
+categories: ["Hubble Space Telescope"]
+pic: "space-science.jpg"
+---
+Released to commemorate the 14th anniversary of NASA’s Hubble Space Telescope (HST) is the image of a galaxy cataloged as AM 0644-741. Resembling a diamond encrusted bracelet, the ring of brilliant blue star clusters wraps around a yellowish nucleus of what was once a normal spiral galaxy. Located 300 million light years away in the direction of the southern constellation Dorado, the sparkling blue ring is 150,000 light years in diameter, making it larger than our entire home galaxy, the Milky Way. Ring galaxies are a striking example of how collisions between galaxies can dramatically change their structure, while triggering the formation of new stars.  Typically one galaxy plunges directly into the disk of another one.  The ring that pierced through this galaxy’s ring is out of the image but is visible in larger-field images.  The soft galaxy visible to the left of the ring galaxy is a coincidental background galaxy which is not interacting with the ring.  Rampant star formation explains why the ring is so blue. It is continuously forming massive, young, hot stars.  Another sign of robust star formation is the pink regions along the ring.  These are rare clouds of glowing hydrogen gas, fluorescing because of the strong ultraviolet light from the newly formed stars.  The Hubble Heritage Team used the Hubble Advanced Camera for Surveys to take this image using a combination of four separate filters that isolate blue, green, red, and near-infrared light to create the color image.), G. Illingworth (USCS/LO), M. Clampin (STScI), G. Hartig (STScI), the ACS Science Team, and ESA.
